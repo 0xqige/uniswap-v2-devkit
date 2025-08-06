@@ -62,7 +62,7 @@ curl -L https://foundry.paradigm.xyz | bash
 foundryup
 
 # Clone the DevKit
-git clone https://github.com/yourusername/uniswap-v2-devkit.git
+git clone https://github.com/0xqige/uniswap-v2-devkit.git
 cd uniswap-v2-devkit
 
 # Compile contracts (zero dependencies!)
@@ -359,13 +359,13 @@ Please check our [Contributing Guidelines](CONTRIBUTING.md) and feel free to ope
 
 If **Uniswap V2 DevKit** helps your project, please give us a star! ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/uniswap-v2-devkit.svg?style=social&label=Star)](https://github.com/yourusername/uniswap-v2-devkit)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/uniswap-v2-devkit.svg?style=social&label=Fork)](https://github.com/yourusername/uniswap-v2-devkit/fork)
+[![GitHub stars](https://img.shields.io/github/stars/0xqige/uniswap-v2-devkit.svg?style=social&label=Star)](https://github.com/0xqige/uniswap-v2-devkit)
+[![GitHub forks](https://img.shields.io/github/forks/0xqige/uniswap-v2-devkit.svg?style=social&label=Fork)](https://github.com/0xqige/uniswap-v2-devkit/fork)
 
 Join our community:
-- 💬 [GitHub Discussions](https://github.com/yourusername/uniswap-v2-devkit/discussions) - Ask questions and share ideas
-- 🐛 [Issues](https://github.com/yourusername/uniswap-v2-devkit/issues) - Report bugs and request features
-- 🔄 [Pull Requests](https://github.com/yourusername/uniswap-v2-devkit/pulls) - Contribute code improvements
+- 💬 [GitHub Discussions](https://github.com/0xqige/uniswap-v2-devkit/discussions) - Ask questions and share ideas
+- 🐛 [Issues](https://github.com/0xqige/uniswap-v2-devkit/issues) - Report bugs and request features
+- 🔄 [Pull Requests](https://github.com/0xqige/uniswap-v2-devkit/pulls) - Contribute code improvements
 
 ## 📄 License
 
